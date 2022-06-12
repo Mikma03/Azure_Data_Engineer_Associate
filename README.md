@@ -18,7 +18,7 @@
 - Microsoft Azure Data Engineering **Practice Test**
   - https://www.udemy.com/course/microsoft-azure-data-engineer-exam-practice-tests/
 
-## Books
+# Books
 
 - Azure Data Engineering Cookbook
   - https://subscription.packtpub.com/book/data/9781800206557/1
@@ -26,9 +26,18 @@
 - Data Engineering with Apache Spark, Delta Lake, and Lakehouse
   - https://subscription.packtpub.com/book/data/9781801077743/pref
 
-## Microsoft docs for DP-203
+- The Definitive Guide to Azure Data Engineering: Modern ELT, DevOps, and Analytics on the Azure Cloud Platform
+  - https://learning.oreilly.com/library/view/the-definitive-guide/9781484271827/
+
+# Microsoft info for DP-203
 
 - Microsoft Certified: Azure Data Engineer Associate
   - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
 
+# Additionals resources
 
+- Azure SQL Data Warehouse Synapse Analytics Service
+  - https://learning.oreilly.com/videos/azure-sql-data/9781803233178/
+
+- Real-Time Data Stream Processing in Azure
+  - https://learning.oreilly.com/videos/real-time-data-stream/9781800563391/

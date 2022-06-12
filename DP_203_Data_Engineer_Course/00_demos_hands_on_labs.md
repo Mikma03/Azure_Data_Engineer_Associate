@@ -242,3 +242,6 @@ ____________
 
 # Designing Azure Data Solutions
 
+182. Plan for Secure Endpoints (Public/Private)
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27769030#overview
+
