@@ -29,6 +29,12 @@
 - The Definitive Guide to Azure Data Engineering: Modern ELT, DevOps, and Analytics on the Azure Cloud Platform
   - https://learning.oreilly.com/library/view/the-definitive-guide/9781484271827/
 
+- Data Engineering on Azure
+  - https://learning.oreilly.com/library/view/data-engineering-on/9781617298929/
+
+- Azure Data Factory by Example
+  - https://learning.oreilly.com/library/view/azure-data-factory/9781484270295/
+
 # Microsoft info for DP-203
 
 - Microsoft Certified: Azure Data Engineer Associate
@@ -41,3 +47,12 @@
 
 - Real-Time Data Stream Processing in Azure
   - https://learning.oreilly.com/videos/real-time-data-stream/9781800563391/
+
+- Data engineer Microsoft Paths
+  - https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=data-engineer
+
+- Microsoft Data Engineer dedicated path
+  - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
+
+- Azure Architecture Center
+    - https://docs.microsoft.com/en-us/azure/architecture/

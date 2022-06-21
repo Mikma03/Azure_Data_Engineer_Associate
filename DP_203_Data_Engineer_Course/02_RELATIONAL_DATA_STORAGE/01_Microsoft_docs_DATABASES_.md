@@ -1,8 +1,6 @@
 
 # All Microsoft docs for DP-203 regarding to Databases
 
-# Azure Databases
-
 ## Azure SQL Database deployment options
 
 

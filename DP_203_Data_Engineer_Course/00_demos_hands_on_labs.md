@@ -43,6 +43,9 @@ ____________
 - 32. Cosmos DB: Provision Account
     - https://www.udemy.com/course/dp200exam/learn/lecture/21590632#questions
 
+- 33. Cosmos DB: Database containers and items
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590686#overview
+
 - 37. Cosmos DB: Dedicated vs Shared throughput
     - https://www.udemy.com/course/dp200exam/learn/lecture/21590716#questions
 
@@ -61,11 +64,17 @@ ____________
 - 46. Cosmos DB: Manual vs Automatics Fail-over
     - https://www.udemy.com/course/dp200exam/learn/lecture/21591162#questions
 
+- 47. Cosmos DB: 5 consistent level
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591166#overview
+
 - 50. Cosmos DB: Security
     - https://www.udemy.com/course/dp200exam/learn/lecture/21591180#questions
 
 - 54. Azure Blob & Data Lake Security options
     - https://www.udemy.com/course/dp200exam/learn/lecture/21761702#overview
+
+- 56. Azure Storage - HA and DR Options
+    - https://www.udemy.com/course/dp200exam/learn/lecture/23952318#overview
 
 - 57. Cosmos DB - HA and DR Options
     - https://www.udemy.com/course/dp200exam/learn/lecture/23952332#overview
