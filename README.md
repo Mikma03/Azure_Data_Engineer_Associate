@@ -1,3 +1,14 @@
+
+<!-- TOC -->
+
+- [Azure_Data_Engineer_Associate](#azure_data_engineer_associate)
+- [DP-203](#dp-203)
+- [Books](#books)
+- [Microsoft info for DP-203](#microsoft-info-for-dp-203)
+- [Additionals resources](#additionals-resources)
+
+<!-- /TOC -->
+
 # Azure_Data_Engineer_Associate
 
 
