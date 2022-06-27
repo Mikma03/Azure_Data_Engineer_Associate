@@ -20,14 +20,23 @@
 - Data Engineering on Microsoft Azure (2)
   - https://www.udemy.com/course/dp200exam/
 
+- DP-203 - Data Engineering on Microsoft Azure 2021
+  - https://www.udemy.com/course/data-engineering-on-microsoft-azure/
+
 - Azure Data Factory For Data Engineers (4)
   - https://www.udemy.com/course/learn-azure-data-factory-from-scratch/
 
 - Azure Databricks & Spark Core For Data Engineers (3)
   - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
 
+- Azure Synapse Analytics For Data Engineers -Hands On Project
+  - https://www.udemy.com/course/azure-synapse-analytics-for-data-engineers/
+
 - Microsoft Azure Data Engineering **Practice Test**
   - https://www.udemy.com/course/microsoft-azure-data-engineer-exam-practice-tests/
+
+- DP-203: Data Engineering - whizlabs **Practice Test**
+  - https://www.whizlabs.com/learn/course/microsoft-azure-certification-dp-203/420
 
 # Books
 
