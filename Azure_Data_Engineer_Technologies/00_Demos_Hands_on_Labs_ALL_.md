@@ -1,5 +1,24 @@
 
+<!-- TOC -->
+
+- [Introduction](#introduction)
+  - [All hands on exercises during following course:  Azure Data Engineer Technologies for Beginners](#all-hands-on-exercises-during-following-course--azure-data-engineer-technologies-for-beginners)
+- [Azure SQL Databases](#azure-sql-databases)
+- [Azure Data Warehouse](#azure-data-warehouse)
+- [Azure DataLake](#azure-datalake)
+- [NoSQL Databases in Azure](#nosql-databases-in-azure)
+- [Azure CosmosDB](#azure-cosmosdb)
+- [Azure Streaming Analytics](#azure-streaming-analytics)
+- [Azure Databricks](#azure-databricks)
+- [Azure Data Factory](#azure-data-factory)
+- [Azure Monitor Service](#azure-monitor-service)
+- [HDInsight](#hdinsight)
+
+<!-- /TOC -->
+
+
 # Introduction
+
 
 ## All hands on exercises during following course:  Azure Data Engineer Technologies for Beginners
 
@@ -9,7 +28,7 @@ ____________
 
 
 ____________
-# Azure Databases - Section 4 - regarding to course order
+# Azure SQL Databases
 
 - 18. Demo - Create Azure SQL Database service
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982598#questions
@@ -49,6 +68,9 @@ ____________
 
 - 75. Query Performance Insight
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21344932#questions
+
+
+# Azure Data Warehouse
 
 - 85. Demo: Create Dedicated SQL Pool
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/24106992#overview
@@ -113,6 +135,9 @@ ____________
 - 137. Monitoring
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982906#overview
 
+
+# Azure DataLake
+
 - 150. Demo - Create Azure Data Lake Gen2 Account
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19646962#overview
 
@@ -154,6 +179,9 @@ ____________
 - 189. Demo: Diagnostic settings
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19875090#overview
 
+
+# NoSQL Databases in Azure
+
 - 197. Demo: Part 1 Provision Azure Storage Account
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20956454#overview
 
@@ -168,6 +196,9 @@ ____________
 
 - 201. Managing the Data LifeCycle
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21344948#overview
+
+
+# Azure CosmosDB
 
 - 208. Provision Cosmos DB Account
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20507758#overview
@@ -187,11 +218,17 @@ ____________
 - 227. 228. Cosmos DB - Monitoring through Cosmos DB Portal
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21165892#overview
 
+
+# Azure Streaming Analytics
+
 - 239. Streaming Analytics - Processing Blob Storage Input
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20834242#overview
 
 - 240. Streaming Analytics - Processing IOT Hub Input
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20834264#overview
+
+
+# Azure Databricks
 
 - 249. Demo: Provision Databricks, Clusters and workbook
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20938840#overview
@@ -201,6 +238,9 @@ ____________
 
 - 251. Demo :Explore, Analyze, Clean, Transform and Load Data in
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20938860#overview
+
+
+# Azure Data Factory
 
 - 258. Provision Azure Data Factory Instance
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16349486#overview
@@ -241,11 +281,17 @@ ____________
 - 273. Data Factory - Monitoring through Metrics, Alerts, Diagnostic Settings
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21078572#overview
 
+
+# Azure Monitor Service
+
 - 276. Introduction to Azure Monitor Service
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21083578#overview
 
-277. Demo: Azure Monitor Service
+- 277. Demo: Azure Monitor Service
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21083582#overview
+
+
+# HDInsight
 
 - 288. Create Azure Data Lake Storage Gen 2 (source) and SQL Server (destination)
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16684950#overview
